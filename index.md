@@ -13,7 +13,7 @@ Our CEO is a 15 y/o developer that has a lot of knowledge in computers. He start
 
 We have 2 developers,
 
-1. Hunter Fleming, hunter@wbkthedev.xyz
+1. [Hunter Fleming](https://www.weirdbandkid.games), hunter@wbkthedev.xyz
 2. Cameron Dusing, c.dusing@modbotdb.xyz
 
 # Services
