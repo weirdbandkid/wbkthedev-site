@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# WBK the Developer
+We are a new development company that does Discord Bots, Websites, and a lot more in the future.
 
-You can use the [editor on GitHub](https://github.com/weirdbandkid/wbkthedev-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Discord
+<div align="left">
+    <a target="_blank" href="https://discord.gg/46HQ9rJ" title="Join our Discord!">
+        <img  src="https://discordapp.com/api/guilds/713125432618385500/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
+    </a>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About us
+Our CEO is a 15 y/o developer that has a lot of knowledge in computers. He started developing in May of 2020.
 
-### Markdown
+We have 2 developers,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Hunter Fleming, hunter@wbkthedev.xyz
+2. Cameron Dusing, c.dusing@modbotdb.xyz
 
-```markdown
-Syntax highlighted code block
+# Services
 
-# Header 1
-## Header 2
-### Header 3
+## **Discord Bot Creation**
+I will create a discord bot for your needs.
 
-- Bulleted
-- List
+**Price**
+> 1-25 Commands - FREE
+> 
+> 26-50 Commands- $10
+> 
+> 50+ Commands - Starts at $15
 
-1. Numbered
-2. List
+**Need hosting?**
+> 1-25 Commands - $10/month
+> 
+> 26-50 Commands - $15/month
+> 
+> 50+ Commands - Starts at $20/month
 
-**Bold** and _Italic_ and `Code` text
+**Do you want a dashboard?**
+> 1-25 Commands - $5
+> 
+> 26-50 Commands- $15
+> 
+> 50+ Commands - Starts at $20
+> 
+> **__You get a discount if we host for you!__**
 
-[Link](url) and ![Image](src)
-```
+**Examples**
+> https://dashboard.modbotdb.xyz
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**How to Buy**
+> https://www.weirdbandkid.games/contact
 
-### Jekyll Themes
+## **Website Creation**
+I will create a website for you. You can tell me what you would like it to look like, and I will try my best.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weirdbandkid/wbkthedev-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Price**
+> 1-5 Pages - $25
+> 
+> 6-10 Pages - $45
+> 
+> 11+ Pages - Starts at $50
 
-### Support or Contact
+**Need hosting?**
+> Have a domain? - $15/month
+> 
+> Need a domain? - $30/month
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Examples**
+> https://www.weirdbandkid.games
+> 
+> https://www.modbotdb.xyz
+> 
+> https://dashboard.modbotdb.xyz
+
+**How to Buy**
+> https://www.weirdbandkid.games/contact
