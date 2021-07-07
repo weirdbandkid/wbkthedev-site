@@ -2,3 +2,10 @@
   color: orangered;
 }
 
+p {
+}
+
+#partners {
+  background-color: var(--bs-gray-dark);
+}
+
