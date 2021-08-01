@@ -48,7 +48,7 @@ I will create a discord bot for your needs.
 > https://dashboard.modbotdb.xyz
 
 **How to Buy**
-> https://www.weirdbandkid.games/contact
+> https://www.wbkthedev.xyz/order
 
 ## **Website Creation**
 I will create a website for you. You can tell me what you would like it to look like, and I will try my best.
@@ -73,4 +73,4 @@ I will create a website for you. You can tell me what you would like it to look 
 > https://dashboard.modbotdb.xyz
 
 **How to Buy**
-> https://www.weirdbandkid.games/contact
+> https://www.wbkthedev.xyz/order
